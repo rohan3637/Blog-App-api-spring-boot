@@ -1,2 +1,2 @@
 # BlogApp-Api-spring-boot
-Building apis for smart contact manager application using springboot, spring MVC, data-jpa, MySQL, spring security, validation, Devtools
+Building apis for blogging application using springboot, Spring MVC, Spring Data-JPA, MySQL, Spring Security, Validation, Devtools and Swagger.
