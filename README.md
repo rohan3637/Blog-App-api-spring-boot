@@ -1,8 +1,8 @@
 # BlogApp-Api-spring-boot
 
-## Features: 
+## About: 
 
-1. Building REST API’s for Blog app using Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, MySQL and Deploy on AWS.
+1. Built REST API’s for Blog app using Spring Boot, Spring Security, JWT, Spring Data JPA, Hibernate, MySQL and Deploy on AWS.
 2. REST API's for Pagination, Sorting, Search and Filtering.
 3. REST API Exception Handling and Validation, Securing REST API’s ( Role Based Security)
 4. Configured JWT ( JSON Web Token) in Spring Security
