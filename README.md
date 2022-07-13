@@ -6,7 +6,7 @@
 4. Configured JWT ( JSON Web Token) in Spring Security
 5. Documented and tested REST API using swagger UI, and deployed Blog App on AWS Cloud.
 
-## Tools and Technologies used in this course:
+## Tools and Technologies used:
 
 ### Technologies:
 
